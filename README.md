@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/michaelmoreno/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[test](https://raw.githubusercontent.com/michaelmoreno/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **michaelmoreno/michaelmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
