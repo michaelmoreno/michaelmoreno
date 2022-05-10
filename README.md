@@ -1,6 +1,11 @@
 # Profile Analytics
 
-![](https://raw.githubusercontent.com/michaelmoreno/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="height:165px;" src="https://github-readme-stats.vercel.app/api?username=michaelmoreno" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmoreno&hide=glsl,rust,go,html,css,scss,mathematica&layout=compact&langs_count=6&exclude_repo=isometric-playground" />
+</a>
 
 <!--
 **michaelmoreno/michaelmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"><img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white`"><img align="left" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><img align="left" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">	 <img align="left" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><img align="left" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"><img align="left" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+<br></br>
+
+<div style="display:flex">
+<img style="border:0px;margin:0px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+<img style="border:0px;margin:0px"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white`">
+<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+
+</div>
