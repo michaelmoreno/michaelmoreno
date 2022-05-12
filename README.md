@@ -1,11 +1,7 @@
 # Profile Analytics
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmoreno&hide=glsl,rust,go,html,css,scss,mathematica&layout=compact&langs_count=6&exclude_repo=isometric-playground" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height:165px;" src="https://github-readme-stats.vercel.app/api?username=michaelmoreno&custom_title=All Time Stats&include_all_commits=true&hide_rank=true&show_icons=true" />
-</a>
+![](https://raw.githubusercontent.com/michaelmoreno/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/michaelmoreno/github-stats/master/generated/languages.svg)
 
 <!--
 **michaelmoreno/michaelmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
